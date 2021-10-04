@@ -20,6 +20,6 @@ class Inicio extends Application_Controller {
 	 */
 	public function index()
 	{
-		$this->load->load_layout('welcome_message');
+		$this->load_layout('layout');
 	}
 }
