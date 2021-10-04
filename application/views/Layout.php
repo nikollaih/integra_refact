@@ -19,7 +19,8 @@
         <!-- App Css-->
         <link href="assets/css/app.min.css" id="app-style" rel="stylesheet" type="text/css" />
     </head>
-    <body data-sidebar-size="lg">
+    <body data-sidebar-size="lg" data-topbar="dark">
+    <?php $this->load->view("templates/modals/main") ?>
     <!-- <body data-layout="horizontal"> -->
         <!-- Begin page -->
         <div id="layout-wrapper">
