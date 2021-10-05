@@ -2,12 +2,15 @@
     <div data-simplebar class="h-100">
         <!--- Sidemenu -->
         <div id="sidebar-menu">
+            <div class="brand-container">
+                <img src="<?= base_url() ?>assets/images/brand.png" alt="" class="thumb-lg">  
+            </div>
             <!-- Left Menu Start -->
             <ul class="metismenu list-unstyled" id="side-menu">
                 <li class="menu-title" data-key="t-menu">Menu Invitados</li>
                 <!-- Invitados -->
                 <li>
-                    <a href="index.html">
+                    <a href="<?= base_url() ?>Invitados/aplicativos">
                         <i class="fas fa-home"></i>
                         <span data-key="t-dashboard">Aplicativos</span>
                     </a>
