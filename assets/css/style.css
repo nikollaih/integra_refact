@@ -1,0 +1,14 @@
+.radius-10 {
+    border-radius: 10px;
+}
+
+.brand-container img {
+    width: 100%;
+    max-width: 100px;
+    margin: 0 auto;
+}
+
+.brand-container {
+    padding: 10px;
+    text-align: center;
+}
