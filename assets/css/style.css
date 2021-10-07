@@ -12,3 +12,8 @@
     padding: 10px;
     text-align: center;
 }
+
+.custom-radius{
+    border-radius: 10px;
+    overflow: hidden;
+}
