@@ -12,3 +12,21 @@
     padding: 10px;
     text-align: center;
 }
+
+.card-header {
+    background-color: #e1806c;
+}
+
+.card-header .card-title {
+    color: #FFF;
+}
+
+.btn {
+    box-shadow: none;
+}
+
+.btn-success-custom {
+    color: #fff;
+    background-color: #80b2bd;
+    border-color: #80b2bd;
+}

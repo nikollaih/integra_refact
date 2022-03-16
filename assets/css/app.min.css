@@ -145,7 +145,8 @@ body[data-layout-mode=dark] .layout-mode-light {
 }
 
 .page-content {
-    padding: calc(70px + 20px) calc(20px / 2) 60px calc(20px / 2)
+    padding: calc(70px + 30px) calc(40px / 2) 62px calc(40px / 2);
+    background: #f5f5f5;
 }
 
 .header-item {
@@ -217,15 +218,15 @@ body[data-layout-mode=dark] .layout-mode-light {
 }
 
 body[data-topbar=dark] #page-topbar {
-    background-color: #2e9177;
-    border-color: #2e9177
+    background-color: #215467;
+    border-color: #215467;
 }
 
 body[data-topbar=dark] .navbar-brand-box {
-    background-color: #268068;
-    border-color: #2e9177;
+    background-color: #143946;
+    border-color: #143946;
     -webkit-box-shadow: 0 0 2px #2e9177;
-    box-shadow: 0 0 2px #2e9177
+    box-shadow: 0 0 2px #143946;
 }
 
 body[data-topbar=dark] .navbar-brand-box .logo {
@@ -2128,7 +2129,7 @@ body[data-layout-mode=dark] .border-success {
 }
 
 body[data-layout-mode=dark] .border-info {
-    border-color: #4ba6ef!important
+    border-color: #e4c09c!important
 }
 
 body[data-layout-mode=dark] .border-warning {
@@ -2345,17 +2346,17 @@ body[data-layout-mode=dark] .modal-header {
 }
 
 .form-check-info .form-check-input:checked {
-    background-color: #4ba6ef;
-    border-color: #4ba6ef
+    background-color: #e4c09c;
+    border-color: #e4c09c
 }
 
 .form-radio-info .form-check-input:checked {
-    border-color: #4ba6ef;
-    background-color: #4ba6ef
+    border-color: #e4c09c;
+    background-color: #e4c09c
 }
 
 .form-radio-info .form-check-input:checked:after {
-    background-color: #4ba6ef
+    background-color: #e4c09c
 }
 
 .form-check-warning .form-check-input:checked {
@@ -3153,7 +3154,7 @@ body[data-layout-mode=dark] .glightbox-clean .gslide-title {
 }
 
 .noUi-connect {
-    background: #4ba6ef
+    background: #e4c09c
 }
 
 .noUi-handle {
@@ -3353,8 +3354,8 @@ body[data-layout-mode=dark] .example-val {
 }
 
 .swal2-icon.swal2-question {
-    border-color: #4ba6ef;
-    color: #4ba6ef
+    border-color: #e4c09c;
+    color: #e4c09c
 }
 
 .swal2-icon.swal2-success [class^=swal2-success-line] {
@@ -3754,7 +3755,7 @@ input[switch=success]:checked+label {
 }
 
 input[switch=info]:checked+label {
-    background-color: #4ba6ef
+    background-color: #e4c09c
 }
 
 input[switch=warning]:checked+label {

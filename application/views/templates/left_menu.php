@@ -41,7 +41,7 @@
                 </li>
                 <!-- Invitados -->
                 <!-- Docente -->
-                <li class="menu-title mt-2" data-key="t-components">Menu Docentes</li>
+                <!-- <li class="menu-title mt-2" data-key="t-components">Menu Docentes</li>
                 <li>
                     <a href="index.html">
                         <i class="fas fa-book"></i>
@@ -71,10 +71,10 @@
                         <i class="fas fa-key"></i>
                         <span data-key="t-dashboard">Cambiar Contraseña</span>
                     </a>
-                </li>
+                </li> -->
                 <!-- Docente -->
                 <!-- Estudiante -->
-                <li class="menu-title mt-2" data-key="t-components">Menu Estudiante</li>
+                <!-- <li class="menu-title mt-2" data-key="t-components">Menu Estudiante</li>
                 <li>
                     <a href="index.html">
                         <i class="fas fa-book"></i>
@@ -92,7 +92,7 @@
                         <i class="fas fa-sign-out-alt"></i>
                         <span data-key="t-dashboard">Cerrar Sesion</span>
                     </a>
-                </li>
+                </li> -->
             </ul>
         </div>
         <!-- Sidebar -->
